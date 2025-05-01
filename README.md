@@ -45,8 +45,7 @@ A **Line Following Robot** is an autonomous robot that uses infrared (IR) sensor
 
 ---
 
-## Circuit Diagram
-*(Include or link to your circuit diagram here)*
+
 
 ---
 
@@ -82,8 +81,7 @@ A **Line Following Robot** is an autonomous robot that uses infrared (IR) sensor
 
 ---
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+
 
 ---
 
